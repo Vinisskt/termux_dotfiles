@@ -1,10 +1,10 @@
 #!/usr/bin/env lua
 
 local config = {
-  width = "80%",
-  height = "80%",
+  width = "90%",
+  height = "90%",
   x = "C",
-  y = "50%",
+  y = "40%",
   border = "rounded",
   window_fzf = "80%"
 }
