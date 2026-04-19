@@ -4,7 +4,7 @@ local config = {
   width = "80%",
   height = "80%",
   x = "C",
-  y = "50%",
+  y = "33%",
   border = "double",
 }
 

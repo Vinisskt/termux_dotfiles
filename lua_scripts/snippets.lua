@@ -4,10 +4,10 @@ package.path = package.path .. ";" .. os.getenv("HOME") .. "/.config/zsh/lua_scr
 local snippets = require("list_snippets")
 
 local config = {
-  width = "40%",
+  width = "70%",
   height = nil,
   x = "C",
-  y = "30%",
+  y = "33%",
   border = "double",
 }
 
